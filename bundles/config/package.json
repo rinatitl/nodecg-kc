@@ -1,5 +1,5 @@
 {
-  "name": "test-bundle",
+  "name": "config",
   "version": "0.0.0",
   "description": "",
   "homepage": "",
@@ -22,9 +22,9 @@
     "compatibleRange": "^2.0.0",
     "dashboardPanels": [
       {
-        "name": "panel",
-        "title": "Panel",
-        "width": 2,
+        "name": "config",
+        "title": "Config",
+        "width": 5,
         "file": "panel.html",
         "headerColor": "#525F78"
       }
@@ -50,5 +50,6 @@
       "last 1 safari version"
     ]
   },
+  "repository": "https://github.com/rinatitl/nodecg-kc.git",
   "license": "MIT"
 }
