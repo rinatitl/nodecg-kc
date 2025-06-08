@@ -1,0 +1,6 @@
+{
+  "name": "nodecg-kc",
+  "dependencies": {
+    "nodecg": "^2.5.3"
+  }
+}
